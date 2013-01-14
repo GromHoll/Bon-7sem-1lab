@@ -1,4 +1,4 @@
-#include "calc_logig.h"
+#include "calc_logic.h"
 
 #include <cstdlib>
 #include <math.h>

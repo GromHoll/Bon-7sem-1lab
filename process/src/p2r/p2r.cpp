@@ -2,7 +2,7 @@
 #include <string>
 #include <stdlib.h>
 
-#include "../shared/calc_logig.h"
+#include "../shared/calc_logic.h"
 
 #define HELP_FLAG "-h"
 #define CLOSE_COMAND "close"
